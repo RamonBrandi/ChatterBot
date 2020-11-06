@@ -18,6 +18,6 @@ $ source venv/bin/activate
 - Install the libraries from requirements.txt
 
 ```
-$ pip install -r newSINDA-requirements.txt 
+$ pip install -r requirements.txt 
 
 ```
